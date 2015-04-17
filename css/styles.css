@@ -102,3 +102,15 @@ h3,h4,h5 {
 #main {
  padding-top:120px;
 }
+
+#srch-term {
+    width:100%;
+}
+
+.btn-lg {
+    margin-top: 20px;
+}
+
+#url-text-container {
+    margin-top: 20px;
+}
